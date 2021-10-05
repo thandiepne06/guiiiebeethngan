@@ -1,4 +1,4 @@
-const CONFIG = {
+
     introTitle: 'Hiii ebee thngan!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,4 +16,3 @@ const CONFIG = {
     messDesc: 'Maiiiiii anhhhh hunnnn bbiii nhóoo.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/thang.diep06/
-}
