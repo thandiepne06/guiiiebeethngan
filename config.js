@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hiiii ebee thngan!',
+    introTitle: 'Hiiii chị Hìn yeuu dấu!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '' https://www.facebook.com/thang.diep06/
+    messLink: '' https://m.facebook.com/thang.diep06/
+}
